@@ -1,7 +1,7 @@
 testcase = int(input())
 
 for _ in range(testcase):
-    ans = ""
+    ans = []
     b = input()
     arr = list(b)
     if len(arr) < 3:
@@ -9,8 +9,10 @@ for _ in range(testcase):
     else:
         i=0
         for i in range(0 ,len(arr) , 2):
-            ans += b[i]
-        print(ans + b[len(b)-1])
+            ans.append(b[i])
+
+        ans.append(b[-1])
+        print("".join(ans))
     
 
         
