@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/yordil/A2SV-YEAR-1/tree/master/0801-is-graph-bipartite) |
+| [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Linked List
 |  |
 | ------- |
