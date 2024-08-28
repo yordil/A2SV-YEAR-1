@@ -60,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0019-remove-nth-node-from-end-of-list) |
+## String
+|  |
+| ------- |
+| [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
+## Greedy
+|  |
+| ------- |
+| [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
 <!---LeetCode Topics End-->
