@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
+| [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yordil/A2SV-YEAR-1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/yordil/A2SV-YEAR-1/tree/master/0023-merge-k-sorted-lists) |
+| [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
 ## Merge Sort
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
+| [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 ## Shortest Path
 |  |
 | ------- |
@@ -88,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
+## Sorting
+|  |
+| ------- |
+| [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
+## Counting
+|  |
+| ------- |
+| [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 <!---LeetCode Topics End-->
