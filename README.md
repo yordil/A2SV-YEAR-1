@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Sorting
 |  |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
+## Binary Search
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+## Prefix Sum
+|  |
+| ------- |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
