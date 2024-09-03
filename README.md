@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2645-pass-the-pillow](https://github.com/yordil/A2SV-YEAR-1/tree/master/2645-pass-the-pillow) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
+| [2645-pass-the-pillow](https://github.com/yordil/A2SV-YEAR-1/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
