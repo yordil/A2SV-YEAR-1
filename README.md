@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yordil/A2SV-YEAR-1/tree/master/0145-binary-tree-postorder-traversal) |
 | [0801-is-graph-bipartite](https://github.com/yordil/A2SV-YEAR-1/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yordil/A2SV-YEAR-1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0112-path-sum) |
 | [0801-is-graph-bipartite](https://github.com/yordil/A2SV-YEAR-1/tree/master/0801-is-graph-bipartite) |
 ## Union Find
 |  |
@@ -66,10 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yordil/A2SV-YEAR-1/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yordil/A2SV-YEAR-1/tree/master/0145-binary-tree-postorder-traversal) |
 ## Two Pointers
 |  |
