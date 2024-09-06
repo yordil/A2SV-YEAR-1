@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yordil/A2SV-YEAR-1/tree/master/0145-binary-tree-postorder-traversal) |
 ## Tree
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
 | [0257-binary-tree-paths](https://github.com/yordil/A2SV-YEAR-1/tree/master/0257-binary-tree-paths) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yordil/A2SV-YEAR-1/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
 ## Backtracking
 |  |
