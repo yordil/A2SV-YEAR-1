@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0540-single-element-in-a-sorted-array) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yordil/A2SV-YEAR-1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Depth-First Search
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/yordil/A2SV-YEAR-1/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yordil/A2SV-YEAR-1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yordil/A2SV-YEAR-1/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Binary Search
 |  |
 | ------- |
@@ -191,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
