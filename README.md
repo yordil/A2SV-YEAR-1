@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
+| [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0540-single-element-in-a-sorted-array) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
+| [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/yordil/A2SV-YEAR-1/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yordil/A2SV-YEAR-1/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/yordil/A2SV-YEAR-1/tree/master/0624-maximum-distance-in-arrays) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/yordil/A2SV-YEAR-1/tree/master/1354-find-players-with-zero-or-one-losses) |
