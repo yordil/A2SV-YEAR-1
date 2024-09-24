@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/yordil/A2SV-YEAR-1/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2645-pass-the-pillow](https://github.com/yordil/A2SV-YEAR-1/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
