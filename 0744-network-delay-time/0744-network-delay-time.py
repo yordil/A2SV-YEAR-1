@@ -8,7 +8,7 @@ class Solution:
         for a , b , c in times:
             graph[a].append((b , c))
 
-        heapify(que)
+        
         visited = set()
         while que:
 
