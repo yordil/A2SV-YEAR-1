@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/yordil/A2SV-YEAR-1/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yordil/A2SV-YEAR-1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yordil/A2SV-YEAR-1/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yordil/A2SV-YEAR-1/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/yordil/A2SV-YEAR-1/tree/master/0624-maximum-distance-in-arrays) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yordil/A2SV-YEAR-1/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Shortest Path
 |  |
 | ------- |
