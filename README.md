@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yordil/A2SV-YEAR-1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yordil/A2SV-YEAR-1/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yordil/A2SV-YEAR-1/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Greedy
 |  |
 | ------- |
