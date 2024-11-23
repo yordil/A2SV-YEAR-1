@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/yordil/A2SV-YEAR-1/tree/master/0624-maximum-distance-in-arrays) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
+| [1272-invalid-transactions](https://github.com/yordil/A2SV-YEAR-1/tree/master/1272-invalid-transactions) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/yordil/A2SV-YEAR-1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yordil/A2SV-YEAR-1/tree/master/1435-xor-queries-of-a-subarray) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/yordil/A2SV-YEAR-1/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yordil/A2SV-YEAR-1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
+| [1272-invalid-transactions](https://github.com/yordil/A2SV-YEAR-1/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/yordil/A2SV-YEAR-1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yordil/A2SV-YEAR-1/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/yordil/A2SV-YEAR-1/tree/master/0692-top-k-frequent-words) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yordil/A2SV-YEAR-1/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
+| [1272-invalid-transactions](https://github.com/yordil/A2SV-YEAR-1/tree/master/1272-invalid-transactions) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yordil/A2SV-YEAR-1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/yordil/A2SV-YEAR-1/tree/master/0692-top-k-frequent-words) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
+| [1272-invalid-transactions](https://github.com/yordil/A2SV-YEAR-1/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/yordil/A2SV-YEAR-1/tree/master/1354-find-players-with-zero-or-one-losses) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Counting
