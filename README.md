@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1272-invalid-transactions](https://github.com/yordil/A2SV-YEAR-1/tree/master/1272-invalid-transactions) |
 | [1354-find-players-with-zero-or-one-losses](https://github.com/yordil/A2SV-YEAR-1/tree/master/1354-find-players-with-zero-or-one-losses) |
+| [1488-sort-integers-by-the-power-value](https://github.com/yordil/A2SV-YEAR-1/tree/master/1488-sort-integers-by-the-power-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Counting
 |  |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1488-sort-integers-by-the-power-value](https://github.com/yordil/A2SV-YEAR-1/tree/master/1488-sort-integers-by-the-power-value) |
 ## Backtracking
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1488-sort-integers-by-the-power-value](https://github.com/yordil/A2SV-YEAR-1/tree/master/1488-sort-integers-by-the-power-value) |
 ## Enumeration
 |  |
 | ------- |
