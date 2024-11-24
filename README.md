@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yordil/A2SV-YEAR-1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0744-network-delay-time](https://github.com/yordil/A2SV-YEAR-1/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/yordil/A2SV-YEAR-1/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yordil/A2SV-YEAR-1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yordil/A2SV-YEAR-1/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/yordil/A2SV-YEAR-1/tree/master/0023-merge-k-sorted-lists) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/yordil/A2SV-YEAR-1/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yordil/A2SV-YEAR-1/tree/master/0387-first-unique-character-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
