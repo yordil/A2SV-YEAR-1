@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yordil/A2SV-YEAR-1/tree/master/0145-binary-tree-postorder-traversal) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0920-uncommon-words-from-two-sentences](https://github.com/yordil/A2SV-YEAR-1/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1272-invalid-transactions](https://github.com/yordil/A2SV-YEAR-1/tree/master/1272-invalid-transactions) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yordil/A2SV-YEAR-1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
