@@ -1,25 +1,33 @@
 class Solution:
     def getKth(self, lo: int, hi: int, k: int) -> int:
+       
+        dp = {1: 0} 
+
         
+        def calc(x):
+            if x in dp:
+                return dp[x]
 
-        myheap = []
-
-        for i in range(lo , hi+1):
-
-            curr = i
-            counter  = 0 
-            while curr != 1:
-
-                if curr&1 :
-                    curr = 3*curr +  1
+            original = x
+            steps = 0
+            while x != 1 and x not in dp:
+                if x % 2 == 0:
+                    x //= 2
                 else:
-                    curr //= 2
-                
-                counter +=1
+                    x = 3 * x + 1
+                steps += 1
 
-            myheap.append([counter  ,  i])
-            
-                
-        myheap.sort(key = lambda x : x[0])
+           
+            steps += dp.get(x, 0)
+            dp[original] = steps
+            return steps
+
+        res = []
+        for i in range(lo, hi + 1):
+            power = calc(i)
+            res.append((power, i))  
+
         
-        return myheap[k-1][-1]
+        res.sort()
+
+        return res[k - 1][1]
