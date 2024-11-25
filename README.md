@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yordil/A2SV-YEAR-1/tree/master/0008-string-to-integer-atoi) |
 | [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
 | [0257-binary-tree-paths](https://github.com/yordil/A2SV-YEAR-1/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/yordil/A2SV-YEAR-1/tree/master/0387-first-unique-character-in-a-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/yordil/A2SV-YEAR-1/tree/master/0624-maximum-distance-in-arrays) |
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
 | [0213-house-robber-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -331,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
