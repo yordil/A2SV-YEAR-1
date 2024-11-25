@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yordil/A2SV-YEAR-1/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0540-single-element-in-a-sorted-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/yordil/A2SV-YEAR-1/tree/master/0624-maximum-distance-in-arrays) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/yordil/A2SV-YEAR-1/tree/master/0128-longest-consecutive-sequence) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/yordil/A2SV-YEAR-1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/yordil/A2SV-YEAR-1/tree/master/0692-top-k-frequent-words) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0009-palindrome-number) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yordil/A2SV-YEAR-1/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2645-pass-the-pillow](https://github.com/yordil/A2SV-YEAR-1/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -316,4 +319,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
