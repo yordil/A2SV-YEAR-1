@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/yordil/A2SV-YEAR-1/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/yordil/A2SV-YEAR-1/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/yordil/A2SV-YEAR-1/tree/master/0387-first-unique-character-in-a-string) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/yordil/A2SV-YEAR-1/tree/master/0023-merge-k-sorted-lists) |
+| [0146-lru-cache](https://github.com/yordil/A2SV-YEAR-1/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/yordil/A2SV-YEAR-1/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -318,10 +320,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yordil/A2SV-YEAR-1/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yordil/A2SV-YEAR-1/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
