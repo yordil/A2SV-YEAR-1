@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yordil/A2SV-YEAR-1/tree/master/0056-merge-intervals) |
 | [0128-longest-consecutive-sequence](https://github.com/yordil/A2SV-YEAR-1/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yordil/A2SV-YEAR-1/tree/master/0145-binary-tree-postorder-traversal) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Tree
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
 | [0213-house-robber-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0213-house-robber-ii) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
@@ -338,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
