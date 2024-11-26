@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/yordil/A2SV-YEAR-1/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/yordil/A2SV-YEAR-1/tree/master/0146-lru-cache) |
+| [0242-valid-anagram](https://github.com/yordil/A2SV-YEAR-1/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/yordil/A2SV-YEAR-1/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/yordil/A2SV-YEAR-1/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/yordil/A2SV-YEAR-1/tree/master/0257-binary-tree-paths) |
 | [0387-first-unique-character-in-a-string](https://github.com/yordil/A2SV-YEAR-1/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/yordil/A2SV-YEAR-1/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/yordil/A2SV-YEAR-1/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/yordil/A2SV-YEAR-1/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/yordil/A2SV-YEAR-1/tree/master/0692-top-k-frequent-words) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
