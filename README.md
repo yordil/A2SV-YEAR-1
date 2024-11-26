@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/yordil/A2SV-YEAR-1/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yordil/A2SV-YEAR-1/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/yordil/A2SV-YEAR-1/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
