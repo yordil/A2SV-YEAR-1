@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yordil/A2SV-YEAR-1/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yordil/A2SV-YEAR-1/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yordil/A2SV-YEAR-1/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yordil/A2SV-YEAR-1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/yordil/A2SV-YEAR-1/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/yordil/A2SV-YEAR-1/tree/master/1630-count-odd-numbers-in-an-interval-range) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yordil/A2SV-YEAR-1/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/yordil/A2SV-YEAR-1/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yordil/A2SV-YEAR-1/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Dynamic Programming
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yordil/A2SV-YEAR-1/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yordil/A2SV-YEAR-1/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/yordil/A2SV-YEAR-1/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
 | ------- |
