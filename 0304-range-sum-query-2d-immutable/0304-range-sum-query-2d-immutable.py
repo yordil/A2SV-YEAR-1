@@ -17,10 +17,14 @@ class NumMatrix:
 
     def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
         
-        total_region = self.prefix[row2+1][col2+1] 
+        total_region = self.prefix[row2+1][col2+1]
+        left_side = self.prefix[row2+1][col1]
+        above =  self.prefix[row1][col2+1]
+        duplicated_region = self.prefix[row1][col1]
+
 
         
-        return (total_region - self.prefix[row2+1][col1] + self.prefix[row1][col1] - self.prefix[row1][col2+1]  )
+        return (total_region - left_side + duplicated_region - above  )
       
         
 
