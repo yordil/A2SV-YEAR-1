@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/yordil/A2SV-YEAR-1/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0213-house-robber-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/yordil/A2SV-YEAR-1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/yordil/A2SV-YEAR-1/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yordil/A2SV-YEAR-1/tree/master/0200-number-of-islands) |
+| [0304-range-sum-query-2d-immutable](https://github.com/yordil/A2SV-YEAR-1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/yordil/A2SV-YEAR-1/tree/master/2411-spiral-matrix-iv) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/yordil/A2SV-YEAR-1/tree/master/0304-range-sum-query-2d-immutable) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yordil/A2SV-YEAR-1/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Math
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yordil/A2SV-YEAR-1/tree/master/0146-lru-cache) |
+| [0304-range-sum-query-2d-immutable](https://github.com/yordil/A2SV-YEAR-1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/yordil/A2SV-YEAR-1/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Randomized
