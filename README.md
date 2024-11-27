@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/yordil/A2SV-YEAR-1/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/yordil/A2SV-YEAR-1/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/yordil/A2SV-YEAR-1/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/yordil/A2SV-YEAR-1/tree/master/0242-valid-anagram) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/yordil/A2SV-YEAR-1/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/yordil/A2SV-YEAR-1/tree/master/0013-roman-to-integer) |
 | [0032-longest-valid-parentheses](https://github.com/yordil/A2SV-YEAR-1/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/yordil/A2SV-YEAR-1/tree/master/0044-wildcard-matching) |
 | [0179-largest-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0179-largest-number) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/yordil/A2SV-YEAR-1/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/yordil/A2SV-YEAR-1/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0189-rotate-array) |
 | [0264-ugly-number-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0264-ugly-number-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
