@@ -16,15 +16,15 @@ class Solution:
             ["M", 1000]
         ]
       
-        answer = []
+        answer = ""
         for rom , val in roman[::-1]:
             
             if num // val:
                 count = num // val
 
-                answer.append(rom * count)
+                answer += (rom * count)
                 num = num % val
 
-        return "".join(answer)
+        return answer
 
 
