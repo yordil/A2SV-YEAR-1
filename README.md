@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
 | [0056-merge-intervals](https://github.com/yordil/A2SV-YEAR-1/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0540-single-element-in-a-sorted-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
