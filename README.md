@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yordil/A2SV-YEAR-1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/yordil/A2SV-YEAR-1/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yordil/A2SV-YEAR-1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yordil/A2SV-YEAR-1/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/yordil/A2SV-YEAR-1/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0744-network-delay-time](https://github.com/yordil/A2SV-YEAR-1/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/yordil/A2SV-YEAR-1/tree/master/0801-is-graph-bipartite) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Union Find
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/yordil/A2SV-YEAR-1/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
 | [1661-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1661-minimum-number-of-vertices-to-reach-all-nodes) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Linked List
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yordil/A2SV-YEAR-1/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Merge Sort
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0744-network-delay-time](https://github.com/yordil/A2SV-YEAR-1/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 |  |
 | ------- |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/yordil/A2SV-YEAR-1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/yordil/A2SV-YEAR-1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/yordil/A2SV-YEAR-1/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
 |  |
