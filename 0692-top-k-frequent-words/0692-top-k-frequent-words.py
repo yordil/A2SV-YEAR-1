@@ -1,11 +1,33 @@
+class HeapItem:
+    def __init__(self, word, count):
+        self.word = word
+        self.count = count
+
+    def __lt__(self, to_compare):
+       
+        if self.count == to_compare.count:
+            return self.word > to_compare.word  
+        return self.count < to_compare.count  
+
 class Solution:
     def topKFrequent(self, words: List[str], k: int) -> List[str]:
-        mapp = Counter(words)
+        counts = Counter(words) 
+
         heap = []
-        for key , value in mapp.items():
-            heap.append((-value , key))
-        heapify(heap)
-        answer = []
-        while len(answer) !=k:
-            answer.append(heappop(heap)[1])
-        return answer
+
+        
+        for word, count in counts.items():
+            item = HeapItem(word, count)
+            if len(heap) < k:
+                heappush(heap, item) 
+            else:
+                if item > heap[0]: 
+                    heappop(heap)  
+                    heappush(heap, item) 
+
+        
+        result = []
+        while heap:
+            result.append(heappop(heap).word)
+
+        return result[::-1]  
