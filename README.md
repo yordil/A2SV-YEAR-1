@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/yordil/A2SV-YEAR-1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yordil/A2SV-YEAR-1/tree/master/0018-4sum) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yordil/A2SV-YEAR-1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/yordil/A2SV-YEAR-1/tree/master/0023-merge-k-sorted-lists) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/yordil/A2SV-YEAR-1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0540-single-element-in-a-sorted-array) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
