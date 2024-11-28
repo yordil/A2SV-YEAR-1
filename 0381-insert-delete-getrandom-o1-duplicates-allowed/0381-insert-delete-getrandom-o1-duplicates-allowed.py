@@ -1,4 +1,4 @@
-class RandomizedCollection: # official solution
+class RandomizedCollection: 
 
     def __init__(self):
 
@@ -17,10 +17,10 @@ class RandomizedCollection: # official solution
        
         if not self.dict[val]:
             return False
-        remove_index, last_val = self.dict[val].pop(), self.lst[-1] # pop() on a set
+        remove_index, last_val = self.dict[val].pop(), self.lst[-1] 
         self.lst[remove_index] = last_val
         self.dict[last_val].add(remove_index)
-        self.dict[last_val].discard(len(self.lst) - 1)
+        self.dict[last_val].remove(len(self.lst) - 1)
 
         self.lst.pop()
         return True
