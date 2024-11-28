@@ -4,40 +4,48 @@ class Solution:
         short , longer  = nums1 , nums2
 
         if len(short) > len(longer):
-            short , longer  = longer , short
+
+            short , longer  =  nums2   , nums1
 
         
-        l , r = 0  , len(short) -1 
+        l , r   =   0   , len(short)  -  1 
+        total_length = len(short) +  len(longer)
 
-        total_length = len(short) + len(longer)
-        half_length = total_length // 2
+        half = total_length // 2
 
         while True:
 
-            i  = (l + r) // 2
+            i =  (l + r) // 2
+            j = half - i  -  2 
 
-            j = half_length - i - 2
 
-            short_left = short[i] if i >=  0 else float("-inf")
-            longer_left = longer[j] if j >=  0 else float("-inf")
-            short_right = short[i+1] if i+1 < len(short) else float("inf")
-            longer_right = longer[j+1] if j+1 < len(longer) else float("inf")
+            short_left = short[i]  if i >= 0 else float("-inf")
+            short_right = short[i+1] if (i+1) < len(short) else float("inf")
+            long_left = longer[j] if j >= 0 else float("-inf")
+            long_right = longer[j+1] if (j+1) < len(longer) else float("inf")
 
-            if short_left <= longer_right and short_right >= longer_left:
-                if total_length & 1:
-                    return min(short_right , longer_right)
+
+            if short_left <= long_right and short_right >= long_left:
+
+                if total_length % 2:
+                    return min(short_right , long_right)
                 
-                else:
-                    right_minimum = min(short_right , longer_right)
-                    left_maximum = max(short_left , longer_left)
+                max_left = max(long_left , short_left)
+                min_right = min(long_right  , short_right)
 
-                    return (right_minimum + left_maximum) / 2 
-
-            elif short_left > longer_right:
-                
-                r = i -1
-
-            else:
-                l = i + 1
+                median  = (max_left + min_right) / 2
 
         
+                return median
+
+            elif short_right < long_left:
+                l = i + 1
+
+            else:
+                r  = i - 1
+
+            
+            
+
+            
+
