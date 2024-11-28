@@ -1,41 +1,43 @@
-from typing import List
-
 class Solution:
     def fourSum(self, nums: List[int], target: int) -> List[List[int]]:
+
         nums.sort()
         ans = []
-        N = len(nums)   
+        N = len(nums)
+        temp = []
+        def kSum(k , start , target):
 
-        for i in range(N - 3):
-           
-            if i > 0 and nums[i] == nums[i - 1]:
-                continue
+            if k != 2:
+                for i in range(start , N - k  +  1):
+                    if i > start and nums[i] == nums[i-1]:
+                        continue
+                    temp.append(nums[i])
+                    kSum(k - 1  , i+1  , target - nums[i])
+                    temp.pop()
+                return 
 
-            first = nums[i]
+            l , r  = start  , N -1
 
-            for j in range(i + 1, N - 2):
-             
-                if j > i + 1 and nums[j] == nums[j - 1]:
-                    continue
-                    
-                second = nums[j]
+            while l < r:
+                curr_sum = nums[l] + nums[r] 
 
-                l, r = j + 1, N - 1
+                if curr_sum > target:
+                    r -= 1
+                elif curr_sum < target:
+                    l +=1
+                else:
+                    ans.append(temp  + [nums[l]   , nums [r]])
+                    l+=1
+                    while l < r and nums[l] == nums[l-1]:
+                        l+=1
 
-                while l < r:
-                    currsum = first + second + nums[l] + nums[r]
+        kSum(4 , 0 , target)
 
-                    if currsum > target:
-                        r -= 1
-                    elif currsum < target:
-                        l += 1
-                    else:
-                        ans.append([first, second, nums[l], nums[r]])
-                        l += 1
-                        r -= 1
+        return ans  
 
-                        while l < r and nums[l] == nums[l - 1]:
-                            l += 1
-                        
 
-        return ans
+
+
+
+
+            
