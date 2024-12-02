@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yordil/A2SV-YEAR-1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yordil/A2SV-YEAR-1/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/yordil/A2SV-YEAR-1/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yordil/A2SV-YEAR-1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yordil/A2SV-YEAR-1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/yordil/A2SV-YEAR-1/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yordil/A2SV-YEAR-1/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/yordil/A2SV-YEAR-1/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Greedy
 |  |
@@ -431,4 +433,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yordil/A2SV-YEAR-1/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/yordil/A2SV-YEAR-1/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
