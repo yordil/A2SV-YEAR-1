@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/yordil/A2SV-YEAR-1/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yordil/A2SV-YEAR-1/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/yordil/A2SV-YEAR-1/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1026-string-without-aaa-or-bbb](https://github.com/yordil/A2SV-YEAR-1/tree/master/1026-string-without-aaa-or-bbb) |
 | [1272-invalid-transactions](https://github.com/yordil/A2SV-YEAR-1/tree/master/1272-invalid-transactions) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yordil/A2SV-YEAR-1/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yordil/A2SV-YEAR-1/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yordil/A2SV-YEAR-1/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -425,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yordil/A2SV-YEAR-1/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/yordil/A2SV-YEAR-1/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 <!---LeetCode Topics End-->
