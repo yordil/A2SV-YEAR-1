@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/yordil/A2SV-YEAR-1/tree/master/0744-network-delay-time) |
 | [1140-distant-barcodes](https://github.com/yordil/A2SV-YEAR-1/tree/master/1140-distant-barcodes) |
 | [1325-path-with-maximum-probability](https://github.com/yordil/A2SV-YEAR-1/tree/master/1325-path-with-maximum-probability) |
+| [1955-seat-reservation-manager](https://github.com/yordil/A2SV-YEAR-1/tree/master/1955-seat-reservation-manager) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/yordil/A2SV-YEAR-1/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/yordil/A2SV-YEAR-1/tree/master/0304-range-sum-query-2d-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/yordil/A2SV-YEAR-1/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/yordil/A2SV-YEAR-1/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1955-seat-reservation-manager](https://github.com/yordil/A2SV-YEAR-1/tree/master/1955-seat-reservation-manager) |
 ## Randomized
 |  |
 | ------- |
