@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/yordil/A2SV-YEAR-1/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/yordil/A2SV-YEAR-1/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2358-number-of-ways-to-split-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2358-number-of-ways-to-split-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/yordil/A2SV-YEAR-1/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/yordil/A2SV-YEAR-1/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yordil/A2SV-YEAR-1/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1435-xor-queries-of-a-subarray](https://github.com/yordil/A2SV-YEAR-1/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/yordil/A2SV-YEAR-1/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yordil/A2SV-YEAR-1/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/yordil/A2SV-YEAR-1/tree/master/2358-number-of-ways-to-split-array) |
 | [3427-special-array-ii](https://github.com/yordil/A2SV-YEAR-1/tree/master/3427-special-array-ii) |
 | [3639-zero-array-transformation-i](https://github.com/yordil/A2SV-YEAR-1/tree/master/3639-zero-array-transformation-i) |
 ## Math
